@@ -63,10 +63,5 @@ This app can be deployed to **Streamlit Cloud**:
 
 ---
 
-## 📸 Screenshots
-*(Add some screenshots of your dashboard here)*
-
----
-
 ## 📜 License
 This project is licensed under the MIT License – feel free to use and modify.
