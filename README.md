@@ -41,8 +41,8 @@ The app provides step-by-step analysis, visualizations, and outlier detection to
 ## 📦 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+    git clone https://github.com/grandline-coder/eda-store.git
+    cd eda-store
    ```
 2. Install dependencies:
    ```bash
@@ -58,7 +58,7 @@ The app provides step-by-step analysis, visualizations, and outlier detection to
 ## 🌐 Deployment
 This app can be deployed to **Streamlit Cloud**:
 1. Push your code to GitHub.
-2. Go to [Streamlit Cloud](https://share.streamlit.io/) and deploy.
+2. Go to [Streamlit Cloud]([https://share.streamlit.io/](https://eda-store-e2tgntfvnr5t7dypdswchx.streamlit.app/)) and deploy.
 3. Select your repo and `app.py` as the main file.
 
 ---
